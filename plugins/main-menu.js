@@ -2,7 +2,8 @@ const config = require('../config')
 const { cmd, commands } = require('../command');
 const os = require("os")
 const {runtime} = require('../lib/functions')
-const axios = require('axios')
+const fs = require("fs");
+const path = require("path");
 
 cmd({
     pattern: "menu",
@@ -14,6 +15,11 @@ cmd({
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+
+      const randomIndex = Math.floor(Math.random() * 10) + 1;
+      const imagePath = path.join(__dirname, '..', 'scs', `menu${randomIndex}.jpg`);
+      const imageBuffer = fs.readFileSync(imagePath);
   
         let dec = ` ╭━━━〔 🚀 BOT INFORMATION 〕━━━╮
 ┃ 👑 Owner      : ${config.OWNER_NAME}
