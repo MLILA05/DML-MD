@@ -111,7 +111,29 @@
 
 ---
 
-## 🌐 Join the DML Community
+## 🧍‍♂️ GitHub Followers
+
+> 💖 *These amazing people are following [@MLILA17](https://github.com/MLILA17) — thanks for your support!*
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub Icon"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MLILA17?tab=followers">
+    <img src="https://img.shields.io/github/followers/MLILA17?label=Followers&style=for-the-badge&color=1BAFBA&logo=github" alt="GitHub Followers Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MLILA17?tab=followers">
+    <img src="https://reporoster.com/followers/MLILA17" alt="GitHub Followers"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Join the Dml Community
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBTnYe4yltFjGWi8K1g" target="_blank">
