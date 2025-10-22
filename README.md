@@ -1,5 +1,6 @@
 <h2 align="center" style="color:#FF6347; text-shadow: 2px 2px 8px rgba(255,99,71,0.8);">
-✨ WELCOME TO DML-MD✨
+Do not deploy the bot for now; I am performing maintenance on the session ID.
+
 </h2>
 
 <h3 align="center" style="color:#1BAFBA; font-weight:bold;">
