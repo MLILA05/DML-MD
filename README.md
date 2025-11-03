@@ -134,7 +134,7 @@
 ## 🌐 Join the Dml Community
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBTnYe4yltFjGWi8K1g" target="_blank">
+  <a href="https://whatsapp.com/channel/0029VbBf4Y52kNFkFCx2pF1H" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="260">
   </a>
 </p>
