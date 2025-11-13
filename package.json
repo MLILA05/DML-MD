@@ -1,7 +1,6 @@
-
 {
   "name": "DML-MD",
-  "version": "3.0.0",
+  "version": "4.1.0",
   "description": "A WhatsApp Bot Created By Dml",
   "main": "index.js",
   "scripts": {
@@ -10,7 +9,7 @@
     "restart": "pm2 restart DML-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Jeliostarr/DEV-Baileys#main",
+    "@whiskeysockets/baileys": "npm:@zenzxz/baileys@latest",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -19,11 +18,11 @@
     "pino": "^7.0.5",
     "pm2": "^6.0.5",
     "util": "^0.12.4",
-    "express": "^3.11.0",
-    "crypto-js": "^3.2.1",
+    "express": "latest",
     "moment-timezone": "^0.5.45",
     "axios": "^1.2.5",
     "crypto-digest-sync": "^1.0.0",
+    "crypto-js": "latest",
     "file_size_url": "1.0.4",
     "fs-extra": "^11.1.0",
     "fs": "^0.0.1-security",
