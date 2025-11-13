@@ -17,20 +17,6 @@
 
 ---
 
-## 📊 Repository Status
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/MLILA17/DML-MD?label=Stars&style=flat-square&color=yellow" />
-  <img src="https://img.shields.io/github/forks/MLILA17/DML-MD?label=Forks&style=flat-square&color=green" />
-  <img src="https://img.shields.io/github/issues/MLILA17/DML-MD?label=Issues&style=flat-square&color=orange" />
-  <img src="https://img.shields.io/github/pull-requests/MLILA17/DML-MD?label=Pull%20Requests&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/last-commit/MLILA17/DML-MD?label=Last%20Commit&style=flat-square&color=red" />
-  <img src="https://img.shields.io/github/languages/top/MLILA17/DML-MD?label=Main%20Language&style=flat-square&color=purple" />
-  <img src="https://img.shields.io/github/license/MLILA17/DML-MD?label=License&style=flat-square&color=lightgrey" />
-</p>
-
----
-
 ## 🚀 Deploy DML-MD in 3 Easy Steps
 
 <div align="center">
@@ -46,10 +32,7 @@
   </a>
 </div>
 
-[![Fork](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=github)](https://github.com/MLILA17/DML-MD/fork)
-[![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA17/DML-MD/stargazers)
 
----
 
 ### 🔹 Step 2: Generate Session ID
 
